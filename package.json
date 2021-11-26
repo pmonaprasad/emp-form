@@ -43,4 +43,7 @@
   "devDependencies": {},
   "author": "",
   "license": "ISC"
+},
+"scripts": {
+  "postinstall": "ng build"
 }
