@@ -20,7 +20,7 @@ function App() {
     <div>
       <EmpForm />
       
-      <EmpData />
+//       <EmpData />
     </div>
   );
 }
