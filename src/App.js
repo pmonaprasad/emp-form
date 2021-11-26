@@ -20,7 +20,6 @@ function App() {
     <div>
       <EmpForm />
       
-//       <EmpData />
     </div>
   );
 }
