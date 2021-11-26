@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "designation": "Developer",
+      "contact": [
+        {
+          "type": "primary",
+          "number": "9087654321"
+        },
+        {
+          "type": "emergency",
+          "number": "9876543210"
+        }
+      ],
+      "skills": "JS, HTML, CSS",
+      "dob": "01-Jan-1995"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "designation": "Software Engineer",
+      "contact": [
+        {
+          "type": "primary",
+          "number": "9087654321"
+        }
+      ],
+      "skills": "JS, HTML",
+      "dob": "01-Jan-1995"
+    },
+    {
+      "name": "pranjal",
+      "designation": "software engineer",
+      "contact": [
+        {
+          "type": "primary",
+          "number": "7546636372"
+        },
+        {
+          "type": "emergency",
+          "number": "6758844993"
+        }
+      ],
+      "skills": "html, css, js",
+      "dob": "22-08-1990",
+      "id": "HB_BFUQ"
+    }
+  ]
+}

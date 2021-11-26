@@ -1,0 +1,59 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+table{
+    border-collapse: separate;
+    border-spacing: 10px;
+    
+}
+
+.emp-table {
+    background-color: rgb(233, 233, 220);
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.emp-table table tr td {
+    color:brown
+}
+.submit-button button{
+    padding: 10px 15px;
+    background-color: gray;
+    border: none;
+    border-radius: 3px;
+    color: honeydew;
+    margin:15px 0px;
+}
+
+.add-button button {
+    background-color: gray;
+    border: none;
+    border-radius: 3px;
+    font-weight: 200;
+    color: honeydew;
+    padding: 5px 10px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+tr td {
+    margin-right: 5rem;
+    color: rgb(119, 113, 113);
+    font-size: 18px;
+}
+
+input {
+    border: 1px solid rgba(184, 180, 180, 0.849);
+    padding: 5px;
+    border-radius: 3px;
+    width: 200px;
+}

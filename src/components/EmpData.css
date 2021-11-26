@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.no-margin {
+    margin:0;
+}
+
+table tr td {
+    text-align: left;
+    color: brown;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+
+}
+
+.emp-info {
+    background-color: rgb(233, 233, 220);
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
+.download-button button{
+    background-color: rgb(15, 137, 158);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 20px 0;
+}
