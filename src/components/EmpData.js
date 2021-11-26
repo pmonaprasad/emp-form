@@ -4,7 +4,7 @@ import "./EmpData.css";
 function EmpData() {
 
     const[emp, getEmp] = useState([]);
-    const url = "http://localhost:3002/data";
+    const url = "https://my-empoyee-form.herokuapp.com/api";
 
     const getEmpData = () => {
         fetch(url)

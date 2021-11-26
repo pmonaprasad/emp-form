@@ -25,7 +25,7 @@ const EmpForm = () => {
         });
 
         //post employee data submitted by the user
-        const url = "http://localhost:3002/data";
+        const url = "https://my-empoyee-form.herokuapp.com/api";
         console.log(empData);
         async function postRequest(url, empData) {
             try {
